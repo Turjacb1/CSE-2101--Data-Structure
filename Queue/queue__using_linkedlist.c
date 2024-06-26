@@ -73,7 +73,6 @@ void main()
     display() ;
     
     dequeue();
-printf("\n");
     display();
 
 }
